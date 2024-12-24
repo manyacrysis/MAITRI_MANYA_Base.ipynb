@@ -1,4 +1,4 @@
-# MAITRI_MANYA_Base.ipynb
+#This is base code of my current research paper on MACHINE LEARNING.
 
   ABSTRACT 
   
