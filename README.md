@@ -1,8 +1,7 @@
 # MAITRI_MANYA_Base.ipynb
 
   ABSTRACT 
- 
- 
+  
 Maintainability of software is an essential component that must be considered when evaluating 
 the quality of certain types of software. It describes the simplicity with which several 
 maintenance actions can be performed to make software flexible to the modification of the 
